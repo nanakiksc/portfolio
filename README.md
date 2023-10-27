@@ -1,12 +1,6 @@
 # portfolio
 collection of my portfolio assignments
 
-## subtitle
-some more text
+## my_notebook
 
-- list1
-- list2
-- list3
-
-## new addition
-more text
+contains a plot of the iris dataset
